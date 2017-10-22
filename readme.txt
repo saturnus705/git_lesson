@@ -1,0 +1,1 @@
+This repository contains the files used for the git lesson.
